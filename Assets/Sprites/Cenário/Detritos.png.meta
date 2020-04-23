@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: d8d531d9bbfbb7741a2237151d08247e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2700650436150686908
+    second: Detritos_0
+  - first:
+      213: 4409615221412735820
+    second: Detritos_1
+  - first:
+      213: 2076948170147434869
+    second: Detritos_2
+  - first:
+      213: 8767025420183242325
+    second: Detritos_3
+  - first:
+      213: 274191285936818826
+    second: Detritos_4
+  - first:
+      213: -8768413677767204369
+    second: Detritos_5
+  - first:
+      213: 5808700259091993399
+    second: Detritos_6
+  - first:
+      213: 2750532782622578819
+    second: Detritos_7
+  - first:
+      213: -3189752352746143357
+    second: Detritos_8
+  - first:
+      213: -7323264746044734712
+    second: Detritos_9
+  - first:
+      213: -4868817525429574456
+    second: Detritos_10
+  - first:
+      213: 5005368067437815432
+    second: Detritos_11
+  - first:
+      213: 653153785922435873
+    second: Detritos_12
+  - first:
+      213: 6851338347095723912
+    second: Detritos_13
+  - first:
+      213: 9069847592643284892
+    second: Detritos_14
+  - first:
+      213: 2424455712888717286
+    second: Detritos_15
+  - first:
+      213: -2750566089554381391
+    second: Detritos_16
+  - first:
+      213: -4765688447377774990
+    second: Detritos_17
+  - first:
+      213: -4139516504288187901
+    second: Detritos_18
+  - first:
+      213: -7816643720777568357
+    second: Detritos_19
+  - first:
+      213: -810836318347001452
+    second: Detritos_20
+  - first:
+      213: 4769205679435025401
+    second: Detritos_21
+  - first:
+      213: -1824400430761933306
+    second: Detritos_22
+  - first:
+      213: 7500765136219394268
+    second: Detritos_23
+  - first:
+      213: 6904876836428786654
+    second: Detritos_24
+  - first:
+      213: -1827073927340146351
+    second: Detritos_25
+  - first:
+      213: 2494817034905485738
+    second: Detritos_26
+  - first:
+      213: -7642266746121007471
+    second: Detritos_27
+  - first:
+      213: -1091282169712324628
+    second: Detritos_28
+  - first:
+      213: 3008084809994529144
+    second: Detritos_29
+  - first:
+      213: 7705790247642044349
+    second: Detritos_30
+  - first:
+      213: -1059501086738848954
+    second: Detritos_31
+  - first:
+      213: 6319224400482384825
+    second: Detritos_32
+  - first:
+      213: 1754313882877707645
+    second: Detritos_33
+  - first:
+      213: -4069972211705248256
+    second: Detritos_34
+  - first:
+      213: 1204968878279891526
+    second: Detritos_35
+  - first:
+      213: 3635946310006339826
+    second: Detritos_36
+  - first:
+      213: 336374758423659990
+    second: Detritos_37
+  - first:
+      213: 5514035621233937878
+    second: Detritos_38
+  - first:
+      213: -7114695238835859
+    second: Detritos_39
+  - first:
+      213: 688853845397572207
+    second: Detritos_40
+  - first:
+      213: 7252084916888437474
+    second: Detritos_41
+  - first:
+      213: -7509974762883002430
+    second: Detritos_42
+  - first:
+      213: -1077734410304857879
+    second: Detritos_43
+  - first:
+      213: -2388186405547562012
+    second: Detritos_44
+  - first:
+      213: 1785280416833691409
+    second: Detritos_45
+  - first:
+      213: 2164043002194124330
+    second: Detritos_46
+  - first:
+      213: -3661702732695155977
+    second: Detritos_47
+  - first:
+      213: 839078307359783204
+    second: Detritos_48
+  - first:
+      213: 6849065806015717703
+    second: Detritos_49
+  - first:
+      213: -3080866302081788214
+    second: Detritos_50
+  - first:
+      213: -7129166116010944918
+    second: Detritos_51
+  - first:
+      213: 1506680762491860577
+    second: Detritos_52
+  - first:
+      213: 4463289369280018428
+    second: Detritos_53
+  - first:
+      213: -7428310987524186298
+    second: Detritos_54
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Detritos_0
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1566
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee1bdcd5216eb9449fba24274edf23c
+      internalID: 2700650436150686908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1565
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b68afbced68f48bdc9bab1e7d9612
+      internalID: 4409615221412735820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1565
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a7d23a02ce7b74588d866dc70fb5e9
+      internalID: 2076948170147434869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1565
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa4476f6bec6948b7bcdb45c940e2d
+      internalID: 8767025420183242325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1565
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd09332a3e8b9594b8963d47531dd784
+      internalID: 274191285936818826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1594
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e774023d15c82428e90061f5df5db8
+      internalID: -8768413677767204369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1566
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ce6daed09abea4faacdd947006e4cb
+      internalID: 5808700259091993399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1565
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec9d114c2cc0b849a1114b66f57cc5c
+      internalID: 2750532782622578819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1565
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb94c9bdc28ea4c9cc9ba437efb88f
+      internalID: -3189752352746143357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1351
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cc1d82d152e29478f99c0a31b82cc6
+      internalID: -7323264746044734712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1354
+        width: 173
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba5f8814522b244a8b4e6594b0cc948
+      internalID: -4868817525429574456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1351
+        width: 186
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12606639fb303f48b710992c52cdcc2
+      internalID: 5005368067437815432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1267
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b55a23239dcec45a5defd03b4508de
+      internalID: 653153785922435873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1268
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082d6cf760c35141bfbd1b877bb534c
+      internalID: 6851338347095723912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1267
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f096847fded0841ba5f4a0c69a1830
+      internalID: 9069847592643284892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1267
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bd347bf262c504c96fd672f5da9085
+      internalID: 2424455712888717286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1268
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15565aa64da91844981a4c19ed1e46c7
+      internalID: -2750566089554381391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1268
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75617ff064228d04eba8b89b41e955f1
+      internalID: -4765688447377774990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1288
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a24ae3749be12b45be55b48a5fad64c
+      internalID: -4139516504288187901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1268
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d9abfd5337c84db74084f77620944
+      internalID: -7816643720777568357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1268
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab6216a246e2604ab427275945334c7
+      internalID: -810836318347001452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1268
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed129fd1707c6b40a92df2bdfdbca7a
+      internalID: 4769205679435025401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1268
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dd7276d5ebc1148a07fadfece06ddf
+      internalID: -1824400430761933306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1268
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67be4d3ae28df9243bb6c7f719a6cb70
+      internalID: 7500765136219394268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1268
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ef1fc23ae0d240925233ff26c65ec
+      internalID: 6904876836428786654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1268
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3b2771bbb35c346b6e445337dd5042
+      internalID: -1827073927340146351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1268
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98519928081a7574f92d1082595a31af
+      internalID: 2494817034905485738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1040
+        width: 185
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b443f9da5f0693a4faf4f2bbccd32b8b
+      internalID: -7642266746121007471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1041
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bafdce8bd669a64099df3caf4c79e1b
+      internalID: -1091282169712324628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1041
+        width: 211
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257aad0c5eded4141973bdd171f118fb
+      internalID: 3008084809994529144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 967
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73288b45d6a89ae44b12130102a9b197
+      internalID: 7705790247642044349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 967
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e3082bddd0524aa68fadc3d44b1d2
+      internalID: -1059501086738848954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 967
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9f91e28350254ba235ece5794e297
+      internalID: 6319224400482384825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 967
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62013ea6f26e4224eadaca0e0ba93656
+      internalID: 1754313882877707645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 966
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feec84f22282304fb0906eb86c6736b
+      internalID: -4069972211705248256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 996
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e086e5a383f371d4a83e2182c513bcc2
+      internalID: 1204968878279891526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 967
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05586f06bee0ae5409f4255f4c8033bc
+      internalID: 3635946310006339826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 967
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e085b9638b86d4eae690ac8f0960e0
+      internalID: 336374758423659990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 967
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca23a4e6f38d845a09ee31d003de5c
+      internalID: 5514035621233937878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 967
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7454b573662f043a68137cff0e0369
+      internalID: -7114695238835859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_40
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 967
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37361b36cb7036248b27a7433781f983
+      internalID: 688853845397572207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 966
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd6b7ce2c65ee4daa5f89c983fd3cf
+      internalID: 7252084916888437474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_42
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 966
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69823d9eaad06cf479e56db03b32ae65
+      internalID: -7509974762883002430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 966
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfa3480c6e8f0d458e563c0da8dbe9e
+      internalID: -1077734410304857879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_44
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 966
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82d61460a16e747a5d18e2d1421a95
+      internalID: -2388186405547562012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 995
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d57452c8b1924099f29ae2ebb2879
+      internalID: 1785280416833691409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 967
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35a3d445982934890cb08b24936411
+      internalID: 2164043002194124330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_47
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 966
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a44d103be97e7847a216a7b240d438e
+      internalID: -3661702732695155977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 966
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d4259f3e2b76142a7b1aa91b15d1e6
+      internalID: 839078307359783204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 966
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4537dc1f7c536ed4389fdb0d220bbaed
+      internalID: 6849065806015717703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 705
+        width: 201
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c48b28b42049145a4954dbf99736bd
+      internalID: -3080866302081788214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 678
+        width: 202
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7465a79f6a62b458a17dfb5d1b5072
+      internalID: -7129166116010944918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 683
+        width: 174
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0105d0da8e7964bb9ba7f44ab98f0b
+      internalID: 1506680762491860577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_53
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 858
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a490cca943ad4a54db61bf48be97e92d
+      internalID: 4463289369280018428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detritos_54
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 809
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bebe61d5e1654a9ccaf6426f5a33c
+      internalID: -7428310987524186298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
