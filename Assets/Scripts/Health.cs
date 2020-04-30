@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 public class Health : MonoBehaviour
 {
     public int health;
+    public Animator anim;
+    public GameObject GameOver; 
 
     public void TakeDamage (int damage)
     {
@@ -13,13 +15,20 @@ public class Health : MonoBehaviour
 
         if (health <= 0)
         {
+            AnimDeath();
             Die();
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            GameOver.SetActive(true);
         }
     }
 
     public void Die () 
     {
-        Destroy(gameObject);
+        Destroy(gameObject,0.4f);
+
+    }
+
+     public void AnimDeath ()
+    {
+        anim.SetTrigger ("Death");
     }
 }

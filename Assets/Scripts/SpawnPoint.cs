@@ -10,6 +10,9 @@ public class SpawnPoint : MonoBehaviour
    public float minTime;
    private float time;
    private float spawnTime;
+   public GameObject points1;
+   public float score1;
+   public float score2;
 
    void Start ()
    {
@@ -21,10 +24,18 @@ public class SpawnPoint : MonoBehaviour
        SetRandomTime ();
        time += Time.deltaTime;
 
+       score1 = points1.GetComponent<Points>().Score;  
+
        if (time >= spawnTime)
        {
            SpawnObject();
            SetRandomTime();
+       }
+       
+       if (score1 > score2)
+       {
+           maxTime -= 50;
+           score2 += 1000;
        }
    }
 

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3541842559034922525}
   - component: {fileID: 7967984797106746119}
   m_Layer: 0
-  m_Name: Rock
+  m_Name: Rock 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -153,6 +153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f7c285d9aa181941bfc4f536f461cf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 2
   rb: {fileID: 2772818201899454364}
   damage: 1

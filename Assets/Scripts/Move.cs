@@ -43,13 +43,13 @@ public class Move : MonoBehaviour
 
                if (direction == 1)
                {
-                   _rb.velocity = (Vector2.left + Vector2.up) * dashSpeed;
+                   _rb.velocity = Vector2.left * dashSpeed;
                    
                    
                }
                else if (direction == 2)
                {
-                   _rb.velocity = (Vector2.right + Vector2.up) * dashSpeed;
+                   _rb.velocity = Vector2.right * dashSpeed;
                    
                }
            }
@@ -61,16 +61,19 @@ public class Move : MonoBehaviour
         sprite.flipY = !sprite.flipY;
     }
 
-    public void LeftSide  ()
+    public void LeftSide ()
     {
         direction = 1;
+        _rb.velocity = Vector2.up * dashSpeed1;
         Flip();
     }
-
+    
     public void RightSide ()
     {
         direction = 2;
+        _rb.velocity = Vector2.up * dashSpeed1;
         Flip();
     }
+
 
 }
